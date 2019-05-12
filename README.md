@@ -4,7 +4,7 @@
 # FRACTALS USING PYTHON
 1. Fractal Tree :
    i) The tree is printed using simple recursion. In the code comments are included and there should be no problem in the understanding of the code. 
-   <img src = '/Fractals-Python/fractalTree/Screen Shot 2018-10-11 at 10.07.41 PM.png' width = "800">
+   <img src = '/Fractals-Python/fractalTree/Screen Shot 2018-10-11 at 10.07.41 PM.png'>
    <img src = '/Fractals-Python/fractalTree/Screen Shot 2018-10-09 at 8.51.02 PM.png' width = "800">
 2. Circle Fractals : 
    i) For every circle, four new circles are printed of half the radius of the circle with centers symmetrically placed at the circumference of it.
